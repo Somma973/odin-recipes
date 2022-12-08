@@ -1,0 +1,7 @@
+{
+    "workbench.editor.preferHistoryBasedLanguageDetection": true,
+    "workbench.editor.historyBasedLanguageDetection": true,
+    "workbench.editor.languageDetection": true,
+    "cSpell.language": "en,fr",
+    "cSpell.enabled": false
+}
